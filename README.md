@@ -1,4 +1,4 @@
-# Run and interact with a Unity scene on SWT
+# Run and interact with a Unity scene on SWT
 
 ## Install Unity
 
