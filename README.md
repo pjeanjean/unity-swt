@@ -10,7 +10,7 @@ Please note that, if you use your package manager to install Unity Editor, you m
 UnityHub is an application used to manage Unity licenses and different versions.
 You will not be able to run Unity officially without it.
 
-It is released as an AppImage, that you can download [here]https://public-cdn.cloud.unity3d.com/hub/prod/UnityHub.AppImage).
+It is released as an AppImage, that you can download [here](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHub.AppImage).
 Make it executable (`chmod u+x UnityHub.AppImage`), and run it.
 
 In order to get a license, click on `Preferences`, `License Management`, then the `Manual Installation` button.
